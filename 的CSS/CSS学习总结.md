@@ -30,7 +30,7 @@ CSS 入门极其容易，但要完全掌握及合理的应用则比较困难。
 
 一条CSS样式规则由两个主要的部分构成：选择器，以`{}`包裹的一条或多条声明:
 
-![](./image/2.jpg)
+![](https://github.com/LDS-CJ/Web--Learing/blob/CSS学习总结/的CSS/imgae/2.jpg)
 
 这条规则表明，页面中所有的一级标题都显示为蓝色，字体大小为12像数。
 说明：
@@ -225,7 +225,7 @@ CSS 入门极其容易，但要完全掌握及合理的应用则比较困难。
 
 补充：默认情况下 Margin Border Padding content 边距为0  因此 4条线重合
 
-![border](image/4.jpg)
+![border](https://github.com/LDS-CJ/Web--Learing/blob/CSS学习总结/的CSS/imgae/4.jpg)
 
 留意上图，你会发现一个元素真正占据的宽度应该是：
 左外边距 + 左边框宽度 + 左内边距 + 内容宽度 + 右内边距 + 右边框宽度 + 右外边距
@@ -292,7 +292,7 @@ position 属性用于对元素进行定位。该属性有以下一些值：
 
   伪类选择符
   
-  ![](image/5.jpg) 
+  ![](https://github.com/LDS-CJ/Web--Learing/blob/CSS学习总结/的CSS/imgae/5.jpg) 
   
   伪元素选择符：
   
