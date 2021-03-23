@@ -297,5 +297,5 @@ position 属性用于对元素进行定位。该属性有以下一些值：
   伪元素选择符：
   
 
-![](image/1.jpg)
+![](https://github.com/LDS-CJ/Web--Learing/blob/CSS学习总结/的CSS/imgae/1.jpg)
 
